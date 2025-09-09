@@ -1,0 +1,64 @@
+.body {
+    background-color: darkgoldenrod;
+    border-radius: 100px;
+    
+}
+
+p {
+    @import url(https://fonts.googleapis.com/css2?family=Metal&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap);
+
+}
+
+h1 {
+   font-style: italic;
+}
+h3 {
+   font-style: italic;
+}
+
+.main-banner {
+    height: 600px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.25),
+            rgba(255, 255, 255, 0.25)),
+        url(/project/photos/image13.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-banner-title {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 100px;
+    letter-spacing: 4px;
+    text-align: center;
+    text-shadow: 2px 6px 6px rgba(155, 118, 83);
+}
+
+
+.main-banner-h {
+    height: 600px;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.25),
+            rgba(255, 255, 255, 0.25)),
+        url(/project/photos/image13.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-banner-title-h {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 100px;
+    letter-spacing: 4px;
+    text-align: center;
+    text-shadow: 2px 6px 6px rgba(155, 118, 83);
+}
+
+.ctext{
+    background-color: rgba(155, 118, 83);
+}
