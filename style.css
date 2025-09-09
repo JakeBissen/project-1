@@ -20,7 +20,7 @@ h3 {
     height: 600px;
     background-image: linear-gradient(rgba(255, 255, 255, 0.25),
             rgba(255, 255, 255, 0.25)),
-        url(/project/photos/image13.jpeg);
+        url(image13.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -42,7 +42,7 @@ h3 {
     height: 600px;
     background-image: linear-gradient(rgba(255, 255, 255, 0.25),
             rgba(255, 255, 255, 0.25)),
-        url(/project/photos/image13.jpeg);
+        url(image13.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
