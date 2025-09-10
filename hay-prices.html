@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-<link rel="stylesheet" href="style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Metal&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
 </head>
-<body class="body m-4">
+<body class="body col-12 md-col-8 sm-col-6">
      <header>
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
@@ -39,15 +39,18 @@
 </nav>
     </header>
 <main>
+  <!-- ADJUST IMAGE SIZES -->
     <section>
-      <section class="container-fluid col-12 row main-banner-h">
-             <h1 class="main-banner-title-h fst-italic">Hay?</h1>
+      <section class="container-fluid main-banner-h">
+             <div class="span">
+              <h1 class="main-banner-title-h fst-italic">Hay?</h1>
              <h3 class="text-center fst-italic">Hay-k Yea! We Got Hay!</h3>
              <h4 class="text-center fst-italic">What Kind?</h4>
-             <h3 class="text-center fst-italic">Hay here:</h3>
+             <h3 class="text-center fst-italic"><b>Hay here:</b></h3>
+             </div>
     </section>
 
-    <section class="container col-10 row-center">
+    <section class="container col-12 row-center">
          <section>
                 <div id="carouselExampleCaptions" class="carousel slide">
   <div class="carousel-indicators">
@@ -81,7 +84,7 @@
       </div>
     </div>
     <div class="carousel-item">
-      <img src="image14.jpeg" class="d-block w-100" alt="...">
+      <img src="image2.jpeg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Fescue</h5>
          <table class="table table-striped border-solid">
@@ -126,7 +129,7 @@
       
     
     <section>
-         <table class="table table-striped border-solid">
+         <table class="container-fluid md-2 table table-striped border-solid">
                 <thead>
                     <tr>
                         <th>Stock</th>
@@ -148,13 +151,13 @@
                 </tbody>
             </table>
             <section>
-                <p>We recommend orchard grass for horses, and our fescue grass for goats and cows.</p>
+                <p class="text-center">We recommend orchard grass for horses, and our fescue grass for goats and cows.</p>
             </section>
     </section>
 
     <hr>
-        <section class="container">
-            <p>Notice: We charge a $100 shipping fee while within 35 miles. Additional $2 per mile fee added beyond that</p>
+        <section class="container col-12">
+            <p><b><i>Notice:</i></b> We charge a $100 shipping fee while within 35 miles. Additional $2 per mile fee added beyond that</p>
             <table class="table table-striped border-solid">
                 <thead>
                     <tr>
@@ -172,7 +175,7 @@
                 </tbody>
             </table>
             <!-- MOVE CSS TO CSS FOLDER FOR MAPS -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3230.9547307747166!2d-88.51368492393968!3d35.92360807251005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x887bf573d01b7925%3A0x7a3344d2bf340355!2sBeech%20Lake%20Ln%2C%20Tennessee%2038321!5e0!3m2!1sen!2sus!4v1757361258323!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe class="map row-center" title="google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3230.9547307747166!2d-88.51368492393968!3d35.92360807251005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x887bf573d01b7925%3A0x7a3344d2bf340355!2sBeech%20Lake%20Ln%2C%20Tennessee%2038321!5e0!3m2!1sen!2sus!4v1757361258323!5m2!1sen!2sus" allowfullscreen="" loading="lazy"></iframe>
         </section>
 
 </main>
@@ -183,7 +186,7 @@
 
      <Footer class="container-fluid">
             <div class="row text-center m-4">
-                <div class="col col-12 col-md-5 order-1">&copy; Bissen Family Farms <a class="fixed-link-circle right" href="#">🌾</a> -top</div>
+                <div class="col col-12 col-md-5 order-1">&copy; Bissen Family Farms <a class="fixed-link-circle right" href="#">🌾</a> <-top</div>
                 <div class="col col-12 col-md-2 order-3 order-md-2">
                             <a href="#">
                                 <img class="icon" src="facebook.svg" alt="Envelope" />
