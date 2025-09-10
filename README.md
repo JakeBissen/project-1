@@ -27,3 +27,13 @@ USER REVIEWS
   1. User
   2. wants to check hay price
   3. to find the cheapest option
+
+6. 
+  1. Tester
+  2. wants to check website on mobile devices
+  3. to find bugs
+
+  7. 
+  1. User
+  2. wants to pre-order hay
+  3. to find prepare for the winter
