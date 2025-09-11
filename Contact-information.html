@@ -59,7 +59,7 @@
                     </div>
                     <div>
                         <label class="from-control">
-                            <input type="email" name="Email" placeholder="email (optional)">
+                            <input type="email" name="Email" placeholder="Email (optional)">
                         </label>
                     <label>
                         <input type="tel" name="Phone-Number" required placeholder="123-456-7890">
@@ -67,11 +67,16 @@
                     </div>
                     <div>
                         <label>
-                            <input type="text" name="address" required placeholder="text">
+                            <input type="text" name="address" required placeholder="Address">
                         </label>
-                        <label>
-                            <input type="checkbox" name="checkbox"> Will the Hay be put into a loft?
-                        </label>
+                        <div>
+                             <label for="loft">Will the hay go into a loft?</label> 
+                             <select class="loft" id="loft" name="loft" required>
+                                <option value="" disabled selected>Select an option</option>
+                                <option value="yes">Yes</option>
+                                <option value="no">No</option>
+                            </select>
+                        </div>
                     </div>
                     <div>
                     <label>
@@ -79,7 +84,7 @@
                     </label>
                     </div>
                     <div>
-                      <button type="submit" class="btn  btn-warning">Submit</button>
+                      <button type="submit" class="btn  btn-primary">Submit</button>
                     </div>
             </form>
         </section>
