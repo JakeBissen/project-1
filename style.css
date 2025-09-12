@@ -47,7 +47,7 @@ h3 {
     background-size: cover;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: top;
 }
 
 .main-banner-title-h {
@@ -60,7 +60,7 @@ h3 {
 }
 
 .ctext{
-    background-color: rgba(155, 118, 83);
+    background-color: rgb(226, 225, 211);
 }
 
 
