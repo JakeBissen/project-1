@@ -71,7 +71,9 @@ h3 {
     border: none;
 }
 
-
+.arrow {
+    background-image: url(arrow-down-square-fill.svg); 
+}
 
 
 
