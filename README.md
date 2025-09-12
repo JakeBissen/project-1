@@ -1,7 +1,8 @@
-Bissen Family Farms Webpage is designed to allow customers to gather information about our hay.
+Bissen Family Farms Webpage is designed to allow customers to gather information about our hay, and have the means to purchase it.
 
 [Project 1, Hay business.drawio.pdf](https://github.com/user-attachments/files/22258647/Project.1.Hay.business.drawio.pdf)
 
+https://github.com/JakeBissen/The-Bissen-Family-Farms.git
 USER REVIEWS
 1. 
   1. Shareholder
@@ -21,19 +22,19 @@ USER REVIEWS
 4. 
   1. User
   2. Wants to order hay
-  3. inorder to feed their goats
+  3. in order to feed their goats
 
 5. 
   1. User
-  2. wants to check hay price
+ 	2. wants to check hay price
   3. to find the cheapest option
 
 6. 
-  1. Tester
-  2. wants to check website on mobile devices
-  3. to find bugs
+ 	 1. Tester
+ 	 2. wants to check website on mobile devices
+   3. to find bugs
 
   7.  
     1. User
     2. wants to pre-order hay
-   3. to find prepare for the winter
+ 	  3. to prepare for the winter
