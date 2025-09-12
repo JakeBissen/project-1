@@ -1,6 +1,6 @@
 Bissen Family Farms Webpage is designed to allow customers to gather information about our hay, and have the means to purchase it.
 
-[Project 1, Hay business.drawio.pdf](https://github.com/user-attachments/files/22258647/Project.1.Hay.business.drawio.pdf)
+<img width="1411" height="1012" alt="Page 1, Project 1, Hay business drawio" src="https://github.com/user-attachments/assets/4adcaa8e-d70b-4860-b5d7-c0044486cfc4" />
 
 https://github.com/JakeBissen/The-Bissen-Family-Farms.git
 USER REVIEWS
