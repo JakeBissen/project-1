@@ -36,23 +36,27 @@ USER REVIEWS
 <br>
 
 5 <br>
- 
-  1. User
- 	2. wants to check hay price
-  3. to find the cheapest option
+1. User <br>
+ 	 2. wants to check hay price <br>
+  3 to find the cheapest option
+     
 <br>
 6 <br> 
- 	 1. Tester
- 	 2. wants to check website on mobile devices
-   3. to find bugs
+ 	 1. Tester <br>
+	 2. wants to check website on mobile devices <br>
+   3. to check for bugs
+  <br>
+
 <br>
   7 <br>  
-    1. User
-    2. wants to pre-order hay
+    1. User <br>
+    2. wants to pre-order hay <br>
  	  3. to prepare for the winter
 <br>
+<br>
 
- 8 <br>  
-    1. User
-    2. want to buy hay
- 	  3. for her goats
+ 8 <br>
+    1. User <br>
+    2. want to buy hay <br>
+ 	  3. for her goats <br>
+
