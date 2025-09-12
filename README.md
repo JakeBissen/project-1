@@ -41,13 +41,11 @@ USER REVIEWS
  	2. wants to check hay price
   3. to find the cheapest option
 <br>
-
 6 <br> 
  	 1. Tester
  	 2. wants to check website on mobile devices
    3. to find bugs
 <br>
-
   7 <br>  
     1. User
     2. wants to pre-order hay
